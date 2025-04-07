@@ -61,5 +61,5 @@ A dynamic landing page with intuitive icons to navigate through views created fo
 
 <a href="https://lnkd.in/gi-CN-cb"> Presentation Video </a> 
 
-<a href="[https://lnkd.in/gi-CN-cb](https://drive.google.com/file/d/1U5TJzzzgNDBZeHkjSGaUAJMY1DNzcao6/view?usp=sharing)](https://drive.google.com/file/d/1U5TJzzzgNDBZeHkjSGaUAJMY1DNzcao6/view?usp=sharing)"> PPT </a> 
+<a href="https://drive.google.com/file/d/1U5TJzzzgNDBZeHkjSGaUAJMY1DNzcao6/view?usp=sharing">View the PPT</a>
 
