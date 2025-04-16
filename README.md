@@ -3,15 +3,24 @@
 
  **🚀 Business Insights 360 – Transforming Insights into Impact**
 
-Ever felt like traditional business reports lack clarity? Endless spreadsheets with limited insight—and by the time decisions are made, the data is outdated?
+Ever felt like traditional business reports lack clarity? Endless spreadsheets with limited insight and by the time decisions are made, the data is outdated?
 
 ---
 
 ## 🌟 Why Business Insights 360 Stands Out
 
-This isn’t just a dashboard—it’s your strategic partner. It uncovers risks, spots opportunities, and drives quick, data-informed decisions, making it indispensable for leadership teams.
+This isn’t just a dashboard it’s your strategic partner. It uncovers risks, spots opportunities, and drives quick, data-informed decisions, making it indispensable for leadership teams.
 
 ---
+
+## 🔗 Links
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzU4NzExMDEtN2M1My00Y2NkLWE0ZGItZjc4ZmM2ZWEwNTg0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Interactive Dashboard </a> 
+
+<a href="https://lnkd.in/gi-CN-cb"> Presentation Video </a> 
+
+<a href="https://drive.google.com/file/d/1U5TJzzzgNDBZeHkjSGaUAJMY1DNzcao6/view?usp=sharing">View the PPT</a>
+
 
 ## 🔍 Key Features Across Views
 
@@ -57,7 +66,7 @@ A dynamic landing page with intuitive icons to navigate through views created fo
 
 ## 🔗 Links
 
-<a href="https://drive.google.com/file/d/1U5TJzzzgNDBZeHkjSGaUAJMY1DNzcao6/view?usp=sharing"> Interactive Dashboard </a> 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzU4NzExMDEtN2M1My00Y2NkLWE0ZGItZjc4ZmM2ZWEwNTg0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Interactive Dashboard </a> 
 
 <a href="https://lnkd.in/gi-CN-cb"> Presentation Video </a> 
 
