@@ -64,11 +64,3 @@ A dynamic landing page with intuitive icons to navigate through views created fo
 
 
 
-## 🔗 Links
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYzU4NzExMDEtN2M1My00Y2NkLWE0ZGItZjc4ZmM2ZWEwNTg0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Interactive Dashboard </a> 
-
-<a href="https://lnkd.in/gi-CN-cb"> Presentation Video </a> 
-
-<a href="https://drive.google.com/file/d/1U5TJzzzgNDBZeHkjSGaUAJMY1DNzcao6/view?usp=sharing">View the PPT</a>
-
